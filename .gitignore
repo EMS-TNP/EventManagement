@@ -1,7 +1,3 @@
-# Eclipse files
-.settings/
-.project
-.classpath
 
 # Build folders
 bin/
